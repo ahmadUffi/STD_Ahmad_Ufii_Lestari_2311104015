@@ -54,7 +54,7 @@ int main(){
     cin>>jum;
     do{
         cout<<"baris ke-"<<i+1<<endl;
-        i++;hdgghsagdhagdjahuyhaahg
+        i++;
     } while(i<jum);
     getch();
     return 0;
