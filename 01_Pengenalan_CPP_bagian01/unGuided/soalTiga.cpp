@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void printPattern(int n) {
+void printPattern(int n) {  
     for (int i = n; i > 0; i--) {
         // cetak untuk bagian kiri
         for (int j = i; j > 0; j--) {
