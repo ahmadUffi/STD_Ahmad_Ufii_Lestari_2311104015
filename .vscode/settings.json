@@ -4,7 +4,8 @@
     "iostream": "cpp",
     "limits": "cpp",
     "cmath": "cpp",
-    "string": "cpp"
+    "string": "cpp",
+    "xmemory": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
